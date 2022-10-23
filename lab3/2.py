@@ -1,0 +1,5 @@
+l = input("enter number")
+print(l)
+print(len(l))
+print(l[0])
+print(l[3])
