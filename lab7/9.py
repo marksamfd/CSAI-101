@@ -1,4 +1,4 @@
-file = open("covid19.txt")
+file = open("./covid19.txt")
 cases = []
 infected = []
 sum = 0
@@ -27,3 +27,13 @@ statsFile += f"avarge => {avg} sum={sum}"
 file = open("covid19Stats.txt", "w")
 file.write(statsFile)
 print(cases, sum, avg, end="\t")
+
+char="ATCGA"
+     #TAGCT
+i ={"A":"T","C":"G","T":"A","G":"C"}
+new = ""
+for c in char:
+    char.replace(c,i[c])
+print(new)
+
+"Hello".replace(" ",",")
