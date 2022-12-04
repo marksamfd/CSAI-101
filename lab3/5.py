@@ -1,3 +1,6 @@
+#  s-mark.kirelos@zewailcity.edu.eg
+#  12/4/22, 12:35 PM
+
 value = int(input('Enter a value:'))
 L = input('Enter list of values:').split()
 c = 0

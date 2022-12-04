@@ -1,6 +1,9 @@
 vowels = ["a","e","i","o","u"]
 str = input("enter a word: ")
 c = 0
+#  s-mark.kirelos@zewailcity.edu.eg
+#  12/4/22, 12:35 PM
+
 # for v in str:
 #     for cv in vowels:
 #         if v == cv:

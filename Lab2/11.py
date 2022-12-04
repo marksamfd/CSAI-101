@@ -1,3 +1,6 @@
+#  s-mark.kirelos@zewailcity.edu.eg
+#  12/4/22, 12:35 PM
+
 x = int(input("enter x: "))
 y = int(input("enter y: "))
 xP=1

@@ -1,3 +1,6 @@
+#  s-mark.kirelos@zewailcity.edu.eg
+#  12/4/22, 12:35 PM
+
 naderMind = input("what is in nader's mind?: ")
 naderFriends = input("Who are nader's Friens?: ").split(",")
 naderPresents = input("What did they bring?: ").split(",")

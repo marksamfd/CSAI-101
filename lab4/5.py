@@ -1,3 +1,6 @@
+#  s-mark.kirelos@zewailcity.edu.eg
+#  12/4/22, 12:35 PM
+
 soup = "vegetables(v), seafood, mushroom(v), chicken".split(",")
 meal = "burger, grilled chicken, mashed potatoes(v), veggie burger(v)".split(",")
 userSoup = input("enter your favourite soup")

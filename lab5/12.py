@@ -13,6 +13,9 @@ for el in arr1:
             exit()
 print("no duplicate found")
 
+#  s-mark.kirelos@zewailcity.edu.eg
+#  12/4/22, 12:35 PM
+
 # 1 8 7 5
 # 5 3 1 7 6 7 7
 # 3 3 2 9 6

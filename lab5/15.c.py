@@ -1,3 +1,6 @@
+#  s-mark.kirelos@zewailcity.edu.eg
+#  12/4/22, 12:35 PM
+
 x = int(input("please enter a number: "))
 sum = 0 
 if x % 5 == 0:

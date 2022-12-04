@@ -32,4 +32,7 @@ for stgrade in validList:
 
 print("the valid matrix is:",valid, "\nthe valid  is:",validList01,"\nthe avareage  is:",sum/len(validList),"\nthe highest grade is:",highestGrade,
       "\nit's index is:", highestGradeIndex,"\nthe valid lowest grade is:",lowestGrade,"\nit's index is:", lowestGradeIndex,)
+#  s-mark.kirelos@zewailcity.edu.eg
+#  12/4/22, 12:35 PM
+
 #90 10 50 2 -2 1

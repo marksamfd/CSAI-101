@@ -8,5 +8,8 @@ if lessCount == 0:
     print("All items are greater")
 else:
     print("there are",lessCount,"values less than or equal",value)
+#  s-mark.kirelos@zewailcity.edu.eg
+#  12/4/22, 12:35 PM
+
 # 10 9 6 20 15
 # 10

@@ -1,3 +1,6 @@
+#  s-mark.kirelos@zewailcity.edu.eg
+#  12/4/22, 12:35 PM
+
 x = int(input("enter a number:"))
 if x>=0:
     add = 0

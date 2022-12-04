@@ -1,3 +1,6 @@
+#  s-mark.kirelos@zewailcity.edu.eg
+#  12/4/22, 12:35 PM
+
 n1 = int(input("enter n1: "))
 n2 = int(input("enter n2: "))
 sum = 0

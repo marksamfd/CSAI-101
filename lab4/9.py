@@ -1,3 +1,6 @@
+#  s-mark.kirelos@zewailcity.edu.eg
+#  12/4/22, 12:35 PM
+
 # please note it's same output but same scenerio
 for i in range(6):
     weight = int(input("please enter weight: "))

@@ -1,3 +1,6 @@
+#  s-mark.kirelos@zewailcity.edu.eg
+#  12/4/22, 12:35 PM
+
 import math
 coff = input("please enter coff seprated by space a b c: ").split()
 a,b,c = int(coff[0]),int(coff[1]),int(coff[2])

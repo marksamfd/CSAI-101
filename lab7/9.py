@@ -1,3 +1,5 @@
+#  s-mark.kirelos@zewailcity.edu.eg
+#  12/4/22, 12:35 PM
 file = open("./covid19.txt")
 cases = []
 infected = []
@@ -29,6 +31,7 @@ file.write(statsFile)
 print(cases, sum, avg, end="\t")
 
 char="ATCGA"
+
      #TAGCT
 i ={"A":"T","C":"G","T":"A","G":"C"}
 new = ""

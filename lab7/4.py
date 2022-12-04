@@ -1,3 +1,6 @@
+#  s-mark.kirelos@zewailcity.edu.eg
+#  12/4/22, 12:35 PM
+
 s = "Hello. My name is ahmed. I am from Cairo"
 a = s.split()
 b = s.split(",")
