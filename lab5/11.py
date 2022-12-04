@@ -8,5 +8,5 @@ for i in range(len(arr2)):
 
 if len(arr1) == len(arr2):
     for i in range(len(arr1)):
-        sub.append( arr1[i]-arr2[i])
+        sub.append(arr1[i]-arr2[i])
 print(sub)

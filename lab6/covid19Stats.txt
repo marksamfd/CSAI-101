@@ -4,3 +4,4 @@ Brazil 	  3.11%
 Jordan 	  9.22% 	
 Thailand 	  1.62% 	
 India 	  1.61% 	
+avarge => 2528022.5 sum=15168135
